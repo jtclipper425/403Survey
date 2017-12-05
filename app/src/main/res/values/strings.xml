@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Customer Satisfaction Survey</string>
+
+    <string name="question1">1. How likely is it that you would recommend this company to a friend or colleague?</string>
+    <string name="question2">2. Overall, how satisfied or dissatisfied are you with our company?</string>
+    <string name="question3">3. Which of the following words would you use to describe our products? Select all that apply.</string>
+    <string name="question4">4. How well do our products meet your needs?</string>
+    <string name="question5">5. How would you rate the quality of the product?</string>
+    <string name="question6">6. How would you rate the value for money of the product?</string>
+    <string name="question7">7. How responsive have we been to your questions or concerns about our products?</string>
+    <string name="question8">8. How long have you been a customer of our company?</string>
+    <string name="question9">9. How likely are you to purchase any of our products again?</string>
+    <string name="question10">10. Do you have any other comments, questions, or concerns?</string>
+
+    <string name="satisfy1">Very satisfied</string>
+    <string name="satisfy2">Somewhat satisfied</string>
+    <string name="satisfy3">Neither satisfied nor dissatisfied</string>
+    <string name="satisfy4">Somewhat dissatisfied</string>
+    <string name="satisfy5">Very dissatisfied</string>
+
+    <string name="describe1">Reliable</string>
+    <string name="describe2">Overpriced</string>
+    <string name="describe3">High Quality</string>
+    <string name="describe4">Impractical</string>
+    <string name="describe5">Useful</string>
+    <string name="describe6">Ineffective</string>
+    <string name="describe7">Unique</string>
+    <string name="describe8">Poor Quality</string>
+    <string name="describe9">Good value for money</string>
+    <string name="describe10">Unreliable</string>
+
+    <string name="needs1">Extremely well</string>
+    <string name="needs2">Very well</string>
+    <string name="needs3">Somewhat well</string>
+    <string name="needs4">Not so well</string>
+    <string name="needs5">Not at all well</string>
+
+    <string name="quality1">Very high quality</string>
+    <string name="quality2">High quality</string>
+    <string name="quality3">Neither high nor low quality</string>
+    <string name="quality4">Low quality</string>
+    <string name="quality5">Very low quality</string>
+
+    <string name="value1">Excellent</string>
+    <string name="value2">Above average</string>
+    <string name="value3">Average</string>
+    <string name="value4">Below average</string>
+    <string name="value5">Poor</string>
+
+    <string name="responsive1">Extremely responsive</string>
+    <string name="responsive2">Very responsive</string>
+    <string name="responsive3">Somewhat responsive</string>
+    <string name="responsive4">Not so responsive</string>
+    <string name="responsive5">Not at all responsive</string>
+    <string name="responsive6">Not applicable</string>
+
+    <string name="time1">This is my first purchase</string>
+    <string name="time2">Less than six months</string>
+    <string name="time3">Six months to a year</string>
+    <string name="time4">1 - 2 years</string>
+    <string name="time5">3 or more years</string>
+    <string name="time6">I haven\'t made a purchase yet</string>
+
+    <string name="purchase1">Extremely likely</string>
+    <string name="purchase2">Very likely</string>
+    <string name="purchase3">Somewhat likely</string>
+    <string name="purchase4">Not so likely</string>
+    <string name="purchase5">Not at all likely</string>
+
+    <string name="buttonText">Done</string>
+
+    <string name="doneMessage">Thank you for submitting your survey.</string>
+</resources>
